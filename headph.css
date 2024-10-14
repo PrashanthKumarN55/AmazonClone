@@ -1,0 +1,34 @@
+.box-img{
+    height: 300px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    align-items: center;
+    border-bottom: 2px solid rgb(231, 130, 130);
+}
+.box{ 
+    width: 24%;
+    height: 600px;
+    background-color: white;
+    padding: 20px 0px 15px;
+    margin-top: 5px;
+}
+.para1{
+    color: #0f1111;
+    font-weight: 100;
+    margin: 10px;
+}
+.box-content i{
+    margin-left: 10px;
+    color: rgb(255, 174, 0);
+}
+.box-content p{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.para{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 18px;
+    font-weight: 200;
+}
+
